@@ -1,4 +1,4 @@
-# Build Center
+# Build Center - Search & Rescue
 
 [Build Center](https://localhost) The Build Center is where it all comes together!
 
@@ -11,8 +11,8 @@
 We aim to build a complete, automated and networked build system from the kernel to the desktop
 
 
-- [ ] Phase 1: Gather as many source packages and build scripts/notes as we can find starting with our current extension history
-- [ ] Phase 2: Create build scripts from a modular template for each library/application (More than 3,200!)
+- [X] Phase 1: Gather as many source packages and build scripts/notes as we can find starting with our current extension history
+- [ ] Phase 2: Create build scripts from a modular template for each library/application (More than 6,800!)
 - [ ] Phase 3: Create a hardware network of ARM and x86/64 for testing and running new build scripts
 - [ ] Phase 4: Reach out to software authors, OS distros, etc. looking for interest and extra hands*
 - [ ] Phase 5: Create a peer2peer network of ARM and x86/64 hardware for global compiling and hardware testing!
@@ -25,7 +25,7 @@ See [build members](https://localhost) for information on how to join the networ
 
 ## License
 
-This project is currently licensed under **_As Is, Welcome To The Club and Enjoy!_**
+This project is currently licensed under **_As Is, Join In! Make Yourself Useful!_**
 
 
 # Extensions
